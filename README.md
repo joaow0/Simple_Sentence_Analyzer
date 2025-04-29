@@ -1,4 +1,7 @@
 📝 analisador_textos() — Analisador Simples de Frases
+
+
+
 🇧🇷 Português | 🇺🇸 English
 📌 Descrição | Description
 🇧🇷 Esta função em Python analisa uma frase fornecida e retorna três informações úteis:
@@ -16,6 +19,7 @@ The total number of words in the sentence.
 How many times the letters 'a' or 'A' appear.
 
 The 5 longest words in the sentence, sorted by length (descending).
+
 
 
 ✅ Funcionalidades | Features
